@@ -1,6 +1,8 @@
 # ChristmasIsComing
 Christmas is Coming is a game I made for an unofficial game jam with the word "Evergreen" as its theme, which was made in 2017.
 
+![](https://github.com/Arcane34/ChristmasIsComing/blob/main/Preview.gif)
+
 My idea for the game consisted of a tower defense game where trees were revolting against humanity due to global warming.
 I wanted the game to have physics-defying projectiles but still be within the realms of reality so I decided the inclusion of Christianity and the holy trinity would make that plausible.
 Lastly, the game's art and sprites were all made in Microsoft Paint due to my lack of proficiency in using any other art software and also not being aware of open-source sprites on the internet.
