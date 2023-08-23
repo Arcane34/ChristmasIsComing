@@ -17,7 +17,7 @@ positioned during the creation of the projectile but not afterward. I realized t
 mouse's position again. The calculation required the use of Pythagoras' theorem to find the distance between the mouse and the start point (being the top of the tower where God the son is drawn) 
 and then calculate the angle at which a particle would need to be released.
 
-![](https://github.com/Arcane34/ChristmasIsComing/blob/main/ProjectilePreview.gif)
+![](https://github.com/Arcane34/ChristmasIsComing/blob/main/ProjectilePreview.png)
 
 ## Enemies and Collision
 
