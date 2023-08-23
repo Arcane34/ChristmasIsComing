@@ -24,3 +24,5 @@ and then calculate the angle at which a particle would need to be released.
 ## Item Pickup
 The secondary mechanic was added so as to provide purpose to the other two parts of the Trinity, God the Father (depicted as gloves inspired by the gloves Mario wears) and God the Holy Spirit 
 (depicted as a ghost). The mechanic consisted of the Holy Spirit running and collecting any feathers that have been dropped.
+
+![](https://github.com/Arcane34/ChristmasIsComing/blob/main/PickupPreview.gif)
