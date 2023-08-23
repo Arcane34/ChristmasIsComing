@@ -21,7 +21,8 @@ and then calculate the angle at which a particle would need to be released.
 
 ## Enemies and Collision
 The enemy collision is a basic rect check where I check if the projectile's x and y coordinates are within the regions specified as the hitbox of every enemy on screen so far. If yes, 
-the projectile is destroyed and the enemy loses some health, if the enemy loses all their health then they play a death animation.
+the projectile is destroyed and the enemy loses some health, if the enemy loses all their health then they play a death animation. Upon enemy death, they have a chance to drop feathers on the 
+ground which are used for the next mechanic.
 
 ## Item Pickup
 The secondary mechanic was added so as to provide purpose to the other two parts of the Trinity, God the Father (depicted as gloves inspired by the gloves Mario wears) and God the Holy Spirit 
